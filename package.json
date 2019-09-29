@@ -1,6 +1,6 @@
 {
   "name": "fastify-ibm-cos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fastify plugin to connect to an IBM COS instance via the IBM COS SDK",
   "main": "index.js",
   "scripts": {
