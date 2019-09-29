@@ -2,8 +2,6 @@
 
 [![NPM](https://nodei.co/npm/fastify-ibm-cos.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/fastify-ibm-cos/)
 
-[![CircleCI](https://circleci.com/gh/alex-ppg/fastify-ibm-cos.svg?style=svg)](https://circleci.com/gh/alex-ppg/fastify-ibm-cos)
-
 ## Installation
 
 ```bash
